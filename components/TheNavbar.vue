@@ -5,14 +5,14 @@
         class="flex items-center justify-between max-w-7xl mx-auto px-4 py-6 sm:px-6 md:justify-start md:space-x-10 lg:px-8"
       >
         <div class="flex justify-start lg:w-0 lg:flex-1">
-          <a href="#">
+          <nuxt-link to="/">
             <span class="sr-only">Workflow</span>
             <img
               class="h-8 w-auto sm:h-10"
               src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
               alt=""
             />
-          </a>
+          </nuxt-link>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <button
@@ -40,35 +40,33 @@
           </button>
         </div>
         <nav class="hidden md:flex space-x-10">
-          <div class="relative">
-            <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
-            <button
-              type="button"
-              class="text-gray-500 group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-              aria-expanded="false"
-            >
-              <span>Solutions</span>
-            </button>
-          </div>
+          <nuxt-link to="/facebook" class="text-base font-medium text-gray-500 hover:text-gray-900">
+            Facebook
+          </nuxt-link>
 
-          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900"> Pricing </a>
+          <nuxt-link
+            to="/instagram"
+            class="text-base font-medium text-gray-500 hover:text-gray-900"
+          >
+            Instagram
+          </nuxt-link>
 
-          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900"> Partners </a>
-
-          <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900"> Company </a>
+          <nuxt-link to="/whatsapp" class="text-base font-medium text-gray-500 hover:text-gray-900">
+            WhatsApp
+          </nuxt-link>
         </nav>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <a
             href="#"
             class="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900"
           >
-            Sign in
+            Github
           </a>
           <a
             href="#"
             class="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-base text-white bg-indigo-600 hover:bg-indigo-700"
           >
-            Sign up
+            Share
           </a>
         </div>
       </div>
@@ -125,7 +123,10 @@
             </div>
             <div class="mt-6">
               <nav class="grid grid-cols-1 gap-7">
-                <a href="#" class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50">
+                <nuxt-link
+                  to="facebook"
+                  class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50"
+                >
                   <div
                     class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-600 text-white"
                   >
@@ -146,10 +147,13 @@
                       />
                     </svg>
                   </div>
-                  <div class="ml-4 text-base font-medium text-gray-900">Inbox</div>
-                </a>
+                  <div class="ml-4 text-base font-medium text-gray-900">Facebook</div>
+                </nuxt-link>
 
-                <a href="#" class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50">
+                <nuxt-link
+                  to="/instagram"
+                  class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50"
+                >
                   <div
                     class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-600 text-white"
                   >
@@ -170,10 +174,13 @@
                       />
                     </svg>
                   </div>
-                  <div class="ml-4 text-base font-medium text-gray-900">Messaging</div>
-                </a>
+                  <div class="ml-4 text-base font-medium text-gray-900">Instagram</div>
+                </nuxt-link>
 
-                <a href="#" class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50">
+                <nuxt-link
+                  to="/whatsapp"
+                  class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50"
+                >
                   <div
                     class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-600 text-white"
                   >
@@ -194,59 +201,28 @@
                       />
                     </svg>
                   </div>
-                  <div class="ml-4 text-base font-medium text-gray-900">Live Chat</div>
-                </a>
-
-                <a href="#" class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50">
-                  <div
-                    class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-600 text-white"
-                  >
-                    <!-- Heroicon name: outline/question-mark-circle -->
-                    <svg
-                      class="h-6 w-6"
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                      aria-hidden="true"
-                    >
-                      <path
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
-                        d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                      />
-                    </svg>
-                  </div>
-                  <div class="ml-4 text-base font-medium text-gray-900">Knowledge Base</div>
-                </a>
+                  <div class="ml-4 text-base font-medium text-gray-900">WhatsApp</div>
+                </nuxt-link>
               </nav>
             </div>
           </div>
           <div class="py-6 px-5">
-            <div class="grid grid-cols-2 gap-4">
-              <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700">
-                Pricing
-              </a>
-
-              <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700">
-                Partners
-              </a>
-
-              <a href="#" class="text-base font-medium text-gray-900 hover:text-gray-700">
-                Company
-              </a>
-            </div>
             <div class="mt-6">
               <a
                 href="#"
                 class="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700"
               >
-                Sign up
+                Share
               </a>
               <p class="mt-6 text-center text-base font-medium text-gray-500">
-                Existing customer?
-                <a href="#" class="text-gray-900"> Sign in </a>
+                Want to contribute?
+                <a
+                  href="https://github.com/pjmanning/de-facebook-me"
+                  target="_blank"
+                  class="text-gray-900"
+                >
+                  Github
+                </a>
               </p>
             </div>
           </div>

@@ -3,5 +3,11 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      title: 'Detach Yourself from Facebook',
+    }
+  },
+}
 </script>
