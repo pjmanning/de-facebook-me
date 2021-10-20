@@ -1,5 +1,7 @@
 <template>
-  <div class="my-40">halllo</div>
+  <div>
+    <home-hero />
+  </div>
 </template>
 
 <script>

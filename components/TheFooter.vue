@@ -60,6 +60,20 @@
           >
           in Bali, Indonesia 🇮🇩
         </p>
+
+        <div
+          class="flex items-center order-2 mx-auto mb-3 text-sm leading-tight text-gray-500 md:order-none"
+        >
+          <span>Built with</span>
+          <a href="https://vuejs.org" target="_blank"
+            ><img src="~/assets/images/vuejs.svg" alt="vuejs" class="w-4 h-4 mx-1"
+          /></a>
+          <span>because...well...</span>
+          <a href="https://reactjs.org/docs/how-to-contribute.html" target="_blank"
+            ><img src="~/assets/images/react.svg" alt="reactjs" class="w-6 h-6"
+          /></a>
+        </div>
+
         <ul class="flex flex-row justify-center pb-3 -ml-4 -mr-4 text-sm">
           <li>
             <nuxt-link to="/facebook" class="px-4 text-gray-500 hover:text-white"
