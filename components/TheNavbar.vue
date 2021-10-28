@@ -2,28 +2,28 @@
   <header>
     <div class="relative bg-white">
       <div
-        class="flex items-center justify-between max-w-7xl mx-auto px-4 py-6 sm:px-6 md:justify-start md:space-x-10 lg:px-8"
+        class="flex items-center justify-between px-4 py-6 mx-auto max-w-7xl sm:px-6 md:justify-start md:space-x-10 lg:px-8"
       >
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <nuxt-link to="/">
             <span class="sr-only">Workflow</span>
             <img
-              class="h-8 w-auto sm:h-10"
+              class="w-auto h-8 sm:h-10"
               src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
               alt=""
             />
           </nuxt-link>
         </div>
-        <div class="-mr-2 -my-2 md:hidden">
+        <div class="-my-2 -mr-2 md:hidden">
           <button
             type="button"
-            class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
+            class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
             aria-expanded="false"
           >
             <span class="sr-only">Open menu</span>
             <!-- Heroicon name: outline/menu -->
             <svg
-              class="h-6 w-6"
+              class="w-6 h-6"
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
               viewBox="0 0 24 24"
@@ -39,7 +39,7 @@
             </svg>
           </button>
         </div>
-        <nav class="hidden md:flex space-x-10">
+        <nav class="hidden space-x-10 md:flex">
           <nuxt-link to="/facebook" class="text-base font-medium text-gray-500 hover:text-gray-900">
             Facebook
           </nuxt-link>
@@ -55,16 +55,16 @@
             WhatsApp
           </nuxt-link>
         </nav>
-        <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
+        <div class="items-center justify-end hidden md:flex md:flex-1 lg:w-0">
           <a
             href="#"
-            class="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900"
+            class="text-base font-medium text-gray-500 whitespace-nowrap hover:text-gray-900"
           >
             Github
           </a>
           <a
             href="#"
-            class="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-base text-white bg-indigo-600 hover:bg-indigo-700"
+            class="inline-flex items-center justify-center px-4 py-2 ml-8 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-md shadow-sm whitespace-nowrap hover:bg-indigo-700"
           >
             Share
           </a>
@@ -82,16 +82,16 @@
           To: "opacity-0 scale-95"
       -->
       <div
-        class="absolute z-30 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden"
+        class="absolute inset-x-0 top-0 z-30 p-2 transition origin-top-right transform md:hidden"
       >
         <div
-          class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-white divide-y-2 divide-gray-50"
+          class="bg-white divide-y-2 rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 divide-gray-50"
         >
-          <div class="pt-5 pb-6 px-5">
+          <div class="px-5 pt-5 pb-6">
             <div class="flex items-center justify-between">
               <div>
                 <img
-                  class="h-8 w-auto"
+                  class="w-auto h-8"
                   src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
                   alt="Workflow"
                 />
@@ -99,12 +99,12 @@
               <div class="-mr-2">
                 <button
                   type="button"
-                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
+                  class="inline-flex items-center justify-center p-2 text-gray-400 bg-white rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
                 >
                   <span class="sr-only">Close menu</span>
                   <!-- Heroicon name: outline/x -->
                   <svg
-                    class="h-6 w-6"
+                    class="w-6 h-6"
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
                     viewBox="0 0 24 24"
@@ -125,14 +125,14 @@
               <nav class="grid grid-cols-1 gap-7">
                 <nuxt-link
                   to="facebook"
-                  class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50"
+                  class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                 >
                   <div
-                    class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-600 text-white"
+                    class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-600 rounded-md"
                   >
                     <!-- Heroicon name: outline/inbox -->
                     <svg
-                      class="h-6 w-6"
+                      class="w-6 h-6"
                       xmlns="http://www.w3.org/2000/svg"
                       fill="none"
                       viewBox="0 0 24 24"
@@ -152,14 +152,14 @@
 
                 <nuxt-link
                   to="/instagram"
-                  class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50"
+                  class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                 >
                   <div
-                    class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-600 text-white"
+                    class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-600 rounded-md"
                   >
                     <!-- Heroicon name: outline/annotation -->
                     <svg
-                      class="h-6 w-6"
+                      class="w-6 h-6"
                       xmlns="http://www.w3.org/2000/svg"
                       fill="none"
                       viewBox="0 0 24 24"
@@ -179,14 +179,14 @@
 
                 <nuxt-link
                   to="/whatsapp"
-                  class="-m-3 p-3 flex items-center rounded-lg hover:bg-gray-50"
+                  class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                 >
                   <div
-                    class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-600 text-white"
+                    class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-600 rounded-md"
                   >
                     <!-- Heroicon name: outline/chat-alt-2 -->
                     <svg
-                      class="h-6 w-6"
+                      class="w-6 h-6"
                       xmlns="http://www.w3.org/2000/svg"
                       fill="none"
                       viewBox="0 0 24 24"
@@ -206,15 +206,15 @@
               </nav>
             </div>
           </div>
-          <div class="py-6 px-5">
+          <div class="px-5 py-6">
             <div class="mt-6">
               <a
                 href="#"
-                class="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700"
+                class="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-md shadow-sm hover:bg-indigo-700"
               >
                 Share
               </a>
-              <p class="mt-6 text-center text-base font-medium text-gray-500">
+              <p class="mt-6 text-base font-medium text-center text-gray-500">
                 Want to contribute?
                 <a
                   href="https://github.com/pjmanning/de-facebook-me"

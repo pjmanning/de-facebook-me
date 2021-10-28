@@ -4,31 +4,19 @@
       <nav class="border-b border-gray-800">
         <div class="container flex items-center justify-between p-6 mx-auto">
           <div class="relative z-10 flex items-center w-auto px-0 leading-10 md:px-2">
-            <a
-              href="#_"
-              class="inline-block font-sans text-2xl font-extrabold text-left no-underline bg-transparent cursor-pointer focus:no-underline"
+            <nuxt-link
+              to="/"
+              class="flex items-center text-2xl no-underline bg-transparent cursor-pointer focus:no-underline"
             >
-              <svg
-                class="w-10 h-10 text-blue-500 fill-current"
-                viewBox="0 0 39 15"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M11.252 1.152C4.184 2.526.454 6.918.061 14.329c1.963-4.049 4.798-5.975 8.503-5.778 2.115.112 3.84 1.295 5.75 2.603 3.11 2.133 6.712 4.601 13.281 3.324 7.068-1.374 10.798-5.766 11.191-13.177-1.963 4.049-4.798 5.975-8.503 5.779-2.115-.113-3.84-1.296-5.75-2.604-3.11-2.133-6.712-4.601-13.281-3.324z"
-                  fill-rule="evenodd"
-                ></path>
-              </svg>
-            </a>
+              <img src="~/assets/images/defacebookme.svg" alt="defacebookme" class="w-16 h-16" />
+              <span class="sr-only">DeFacebookMe</span>
+            </nuxt-link>
           </div>
 
           <div class="flex items-center space-x-4 text-lg">
-            <!-- <a
-              href="https://github.com/pjmanning/de-facebook-me"
+            <a
+              href="https://twitter.com/intent/tweet?text=Done%20with%20Facebook?%20Here's%20a%20step-by-step%20guide%20to%20rid%20Facebook%20from%20your%20life.&via=pj_manning&hashtags=facebook,instagram,whatsapp,deletefacebook,deleteinstagram,deletewhatsapp,defacebookme"
               target="_blank"
-              class="font-medium text-white"
-              >Github</a -->
-            >
-            <button
               class="flex items-center px-6 py-4 font-medium tracking-wide text-center text-gray-200 bg-gray-800 rounded-md hover:text-gray-100 hover:bg-gray-700 focus:outline-none md:mx-0 md:w-auto"
             >
               Share
@@ -42,7 +30,8 @@
                   d="M16 3c-.6.3-1.2.4-1.9.5.7-.4 1.2-1 1.4-1.8-.6.4-1.3.6-2.1.8-.6-.6-1.5-1-2.4-1-1.7 0-3.2 1.5-3.2 3.3 0 .3 0 .5.1.7-2.7-.1-5.2-1.4-6.8-3.4-.3.5-.4 1-.4 1.7 0 1.1.6 2.1 1.5 2.7-.5 0-1-.2-1.5-.4C.7 7.7 1.8 9 3.3 9.3c-.3.1-.6.1-.9.1-.2 0-.4 0-.6-.1.4 1.3 1.6 2.3 3.1 2.3-1.1.9-2.5 1.4-4.1 1.4H0c1.5.9 3.2 1.5 5 1.5 6 0 9.3-5 9.3-9.3v-.4C15 4.3 15.6 3.7 16 3z"
                 ></path>
               </svg>
-            </button>
+            </a>
+
             <a
               href="https://github.com/pjmanning/de-facebook-me"
               target="_blank"
