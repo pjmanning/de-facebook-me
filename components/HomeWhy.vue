@@ -8,20 +8,19 @@
         <p
           class="col-span-6 text-base font-normal text-gray-700 lg:leading-8 xl:leading-8 md:text-xl"
         >
-          Facebook is no doubt one of the greatest creations of the 21st century. It helped connect
-          the world and keep us feeling in touch with our loved ones. But it's users best interest
-          are NOT in it's DNA. No doubt there are some amazing people with great intentions working
-          at FB, but their job is to keep you addicted and to continue to drive metrics even at the
-          expense of society (aka <i>reality</i>...the <i>real</i> world...fuckin plants, animals,
-          sticks and stones)
+          Your best interests have never been a part of Facebook's DNA. They've created some amazing
+          tools and helped connect the world online, but it's come at the cost of privacy and social
+          cohesion. Their platforms have been tailored to keep users addicted and to drive metrics
+          even at the expense of societal problems.
         </p>
 
         <p
           class="col-span-6 text-base font-normal text-gray-700 lg:leading-8 xl:leading-9 md:text-xl"
         >
-          Craft an application that you are proud to call your own. Aesthetically pleasing
-          interfaces are now easier than ever to create. Don't get left behind in this era of tools
-          and features designed to help you on your journey.
+          Your precious life moments and conversations should not be owned by a corporate entity
+          profiting from your inputs. You should understand how and why a company is using
+          psychological techniques to keep you addicted, enraged, or feeding you specific types of
+          content.
         </p>
       </div>
     </div>
