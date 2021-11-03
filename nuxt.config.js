@@ -15,72 +15,67 @@ export default {
         content:
           'Remove your Facebook Footprint. How to best Delete/Deactivate/Take a break and how to save your data and contacts.',
       },
-      //   // twitter-card: https://cards-dev.twitter.com/validator
-      //   { name: 'twitter:card', content: 'summary_large_image' },
-      //   { name: 'twitter:site', content: '@GlassyHQ' },
-      //   { name: 'twitter:creator', content: '@pj_manning' },
-      //   {
-      //     hid: 'twitter:title',
-      //     name: 'twitter:title',
-      //     content: 'Glassy | Make Your Company More Transparent',
-      //   },
-      //   {
-      //     hid: 'twitter:description',
-      //     name: 'twitter:description',
-      //     content:
-      //       '🔎  Create an open company culture by being transparent with your investors, employees, customers, and other stakeholders.',
-      //   },
-      //   {
-      //     hid: 'twitter:image',
-      //     name: 'twitter:image',
-      //     content:
-      //       'https://firebasestorage.googleapis.com/v0/b/glassy-so.appspot.com/o/glassy-ogimage.png?alt=media&token=359850a5-cb80-4b02-8777-c611d53a2769',
-      //   },
-      //   {
-      //     hid: 'twitter:image:alt',
-      //     name: 'twitter:image:alt',
-      //     content: 'Glassy',
-      //   },
+      // twitter-card: https://cards-dev.twitter.com/validator
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:site', content: '@pj_manning' },
+      { name: 'twitter:creator', content: '@pj_manning' },
+      {
+        hid: 'twitter:title',
+        name: 'twitter:title',
+        content: 'DeFacebookMe | Remove Your Data from Facebook',
+      },
+      {
+        hid: 'twitter:description',
+        name: 'twitter:description',
+        content:
+          'Use this step-by-step guide to deactivate, delete, or remove specific data from Facebook, Instagram, and/or WhatsApp.',
+      },
+      {
+        hid: 'twitter:image',
+        name: 'twitter:image',
+        content:
+          'https://firebasestorage.googleapis.com/v0/b/travel-developer.appspot.com/o/defacebookme%2Fdefacebookme-twitter-header.png?alt=media&token=f7338250-d16b-48c8-bee9-a6bcc774c28f',
+      },
+      {
+        hid: 'twitter:image:alt',
+        name: 'twitter:image:alt',
+        content: 'DeFacebookMe',
+      },
 
-      //   // facebook card https://developers.facebook.com/tools/debug/
-      //   {
-      //     hid: 'fb:app_id',
-      //     property: 'fb:app_id',
-      //     content: '1013298389488671',
-      //   },
-      //   {
-      //     hid: 'og:url',
-      //     property: 'og:url',
-      //     content: 'https://glassy.so',
-      //   },
-      //   { hid: 'og:type', property: 'og:type', content: 'website' },
-      //   {
-      //     hid: 'og:title',
-      //     property: 'og:title',
-      //     content: 'Glassy | Make Your Company More Transparent',
-      //   },
-      //   {
-      //     hid: 'og:image',
-      //     property: 'og:image',
-      //     content:
-      //       'https://firebasestorage.googleapis.com/v0/b/glassy-so.appspot.com/o/glassy-ogimage.png?alt=media&token=359850a5-cb80-4b02-8777-c611d53a2769',
-      //   },
-      //   {
-      //     hid: 'og:description',
-      //     property: 'og:description',
-      //     content:
-      //       '🔎  Create an open company culture by being transparent with your investors, employees, customers, and other stakeholders.',
-      //   },
-      //   {
-      //     hid: 'og:site_name',
-      //     property: 'og:site_name',
-      //     content: 'Glassy',
-      //   },
-      //   {
-      //     hid: 'og:image:alt',
-      //     property: 'og:image:alt',
-      //     content: 'Glassy',
-      //   },
+      // facebook card https://developers.facebook.com/tools/debug/
+      {
+        hid: 'og:url',
+        property: 'og:url',
+        content: 'https://defacebookme.com',
+      },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'DeFacebookMe | Remove Your Data from Facebook',
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content:
+          'https://firebasestorage.googleapis.com/v0/b/travel-developer.appspot.com/o/defacebookme%2Fdefacebookme-twitter-header.png?alt=media&token=f7338250-d16b-48c8-bee9-a6bcc774c28f',
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content:
+          'Use this step-by-step guide to deactivate, delete, or remove specific data from Facebook, Instagram, and/or WhatsApp.',
+      },
+      {
+        hid: 'og:site_name',
+        property: 'og:site_name',
+        content: 'DeFacebookMe',
+      },
+      {
+        hid: 'og:image:alt',
+        property: 'og:image:alt',
+        content: 'DeFacebookMe',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },

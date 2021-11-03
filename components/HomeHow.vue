@@ -34,156 +34,155 @@
         </h2>
       </div>
 
-      <div class="relative w-full mt-6 overflow-hidden md:mt-1 md:w-9/12">
-        <div
-          v-show="section == 'prep'"
-          class="w-full space-y-6"
-          x-transition:enter="top-0 left-0 w-full h-full absolute transition ease-out duration-300"
-          x-transition:enter-start="opacity-0 transform translate-y-full"
-          x-transition:enter-end="opacity-100 transform translate-y-0"
-          x-transition:leave="transition ease-out duration-300"
-          x-transition:leave-start="opacity-100 transform translate-y-0"
-          x-transition:leave-end="opacity-0 transform -translate-y-full"
+      <div class="relative w-full mt-6 overflow-hidden md:my-auto md:w-9/12">
+        <transition
+          enter-active-class="absolute top-0 left-0 w-full h-full transition duration-300 ease-out"
+          enter-class="transform translate-y-full opacity-0"
+          enter-to-class="transform translate-y-0 opacity-100"
+          leave-active-class="transition duration-300 ease-out"
+          leave-class="transform translate-y-0 opacity-100"
+          leave-to-class="transform -translate-y-full opacity-0"
         >
-          <svg
-            class="w-12 h-12 text-blue-500"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
-            ></path>
-          </svg>
-          <h3 class="text-2xl font-bold leading-7">Design the next great app</h3>
-          <p class="text-base font-normal leading-none text-gray-700 md:text-lg">
-            Starting every journey from the beginning is exciting. You can develop the next great
-            idea that can change the way people work and make a real impact on the world.
-          </p>
-          <a
-            href="#_"
-            class="flex items-center justify-start mt-8 text-lg font-medium tracking-wide text-gray-900 underline uppercase"
-            >Learn More
+          <div v-show="section == 'prep'" class="w-full space-y-6">
             <svg
-              class="w-5 h-5 ml-1 transform -rotate-45"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
+              class="w-12 h-12 text-blue-500"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
             >
               <path
                 stroke-linecap="round"
                 stroke-linejoin="round"
                 stroke-width="2"
-                d="M14 5l7 7m0 0l-7 7m7-7H3"
-              ></path></svg
-          ></a>
-        </div>
+                d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"
+              />
+            </svg>
+            <h3 class="text-2xl font-bold leading-7">Create a local and/or cloud folder</h3>
+            <p class="text-base font-normal leading-none text-gray-700 md:text-lg">
+              Before you delete any files, make sure you have a local and/or cloud folder to back up
+              your data. We'll create a folder for each Facebook entity.
+            </p>
+            <!-- <a
+              href="#_"
+              class="flex items-center justify-start mt-8 text-lg font-medium tracking-wide text-gray-900 underline uppercase"
+              >Learn More
+              <svg
+                class="w-5 h-5 ml-1 transform -rotate-45"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M14 5l7 7m0 0l-7 7m7-7H3"
+                ></path></svg
+            ></a> -->
+          </div>
+        </transition>
 
-        <div
-          class="space-y-6"
-          v-show="section == 'download'"
-          x-transition:enter="top-0 left-0 w-full h-full absolute transition ease-out duration-300"
-          x-transition:enter-start="opacity-0 transform translate-y-full"
-          x-transition:enter-end="opacity-100 transform translate-y-0"
-          x-transition:leave="transition ease-out duration-300"
-          x-transition:leave-start="opacity-100 transform translate-y-0"
-          x-transition:leave-end="opacity-0 transform -translate-y-full"
+        <transition
+          enter-active-class="absolute top-0 left-0 w-full h-full transition duration-300 ease-out"
+          enter-class="transform translate-y-full opacity-0"
+          enter-to-class="transform translate-y-0 opacity-100"
+          leave-active-class="transition duration-300 ease-out"
+          leave-class="transform translate-y-0 opacity-100"
+          leave-to-class="transform -translate-y-full opacity-0"
         >
-          <svg
-            class="w-12 h-12 text-blue-500 stroke-current"
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="#2c3e50"
-            fill="none"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          >
-            <path stroke="none" d="M0 0h24v24H0z"></path>
-            <path
-              d="M4 13a8 8 0 017 7 6 6 0 003-5 9 9 0 006-8 3 3 0 00-3-3 9 9 0 00-8 6 6 6 0 00-5 3"
-            ></path>
-            <path d="M7 14a6 6 0 00-3 6 6 6 0 006-3"></path>
-            <circle cx="15" cy="9" r="1"></circle>
-          </svg>
-          <h3 class="text-2xl font-bold leading-7">Lauch your product</h3>
-          <p class="text-base font-normal leading-none text-gray-700 md:text-lg">
-            The quicker you launch, the quicker you can learn and grow from experience. Launching
-            new products are one of the most enjoyable parts of the wole process.
-          </p>
-          <a
-            href="#_"
-            class="flex items-center justify-start mt-8 text-lg font-medium tracking-wide text-gray-900 underline uppercase"
-            >Learn More
+          <div class="space-y-6" v-show="section == 'download'">
             <svg
-              class="w-5 h-5 ml-1 transform -rotate-45"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
+              class="w-12 h-12 text-blue-500 stroke-current"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="#2c3e50"
             >
               <path
                 stroke-linecap="round"
                 stroke-linejoin="round"
                 stroke-width="2"
-                d="M14 5l7 7m0 0l-7 7m7-7H3"
-              ></path></svg
-          ></a>
-        </div>
+                d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+              />
+            </svg>
+            <h3 class="text-2xl font-bold leading-7">Download your data</h3>
+            <p class="text-base font-normal leading-none text-gray-700 md:text-lg">
+              Next, you'll want to go into each account and make sure you've downloaded all the data
+              you want to keep (pictures, messages, contacts, etc.).
+            </p>
+            <!-- <a
+              href="#_"
+              class="flex items-center justify-start mt-8 text-lg font-medium tracking-wide text-gray-900 underline uppercase"
+              >Learn More
+              <svg
+                class="w-5 h-5 ml-1 transform -rotate-45"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M14 5l7 7m0 0l-7 7m7-7H3"
+                ></path></svg
+            ></a> -->
+          </div>
+        </transition>
 
-        <div
-          class="space-y-6"
-          v-show="section == 'delete'"
-          x-transition:enter="top-0 left-0 w-full h-full absolute transition ease-out duration-300"
-          x-transition:enter-start="opacity-0 transform translate-y-full"
-          x-transition:enter-end="opacity-100 transform translate-y-0"
-          x-transition:leave="transition ease-out duration-300"
-          x-transition:leave-start="opacity-100 transform translate-y-0"
-          x-transition:leave-end="opacity-0 transform -translate-y-full"
+        <transition
+          enter-active-class="absolute top-0 left-0 w-full h-full transition duration-300 ease-out"
+          enter-class="transform translate-y-full opacity-0"
+          enter-to-class="transform translate-y-0 opacity-100"
+          leave-active-class="transition duration-300 ease-out"
+          leave-class="transform translate-y-0 opacity-100"
+          leave-to-class="transform -translate-y-full opacity-0"
         >
-          <svg
-            class="w-12 h-12 text-blue-500"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
-            ></path>
-          </svg>
-          <h3 class="text-2xl font-bold leading-7">Learn from experience</h3>
-          <p class="text-base font-normal leading-none text-gray-700 md:text-lg">
-            Every step on your journey is getting you closer to your end goal, and the quickest way
-            to get closer to that goal is by learning from your past experiences.
-          </p>
-          <a
-            href="#_"
-            class="flex items-center justify-start mt-8 text-lg font-medium tracking-wide text-gray-900 underline uppercase"
-            >Learn More
+          <div class="space-y-6" v-show="section == 'delete'">
             <svg
-              class="w-5 h-5 ml-1 transform -rotate-45"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
+              class="w-12 h-12 text-blue-500"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
             >
               <path
                 stroke-linecap="round"
                 stroke-linejoin="round"
                 stroke-width="2"
-                d="M14 5l7 7m0 0l-7 7m7-7H3"
-              ></path></svg
-          ></a>
-        </div>
+                d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
+              />
+            </svg>
+
+            <h3 class="text-2xl font-bold leading-7">Delete your data</h3>
+            <p class="text-base font-normal leading-none text-gray-700 md:text-lg">
+              Say goodbye to your Facebook data. Delete all your data from Facebook servers and send
+              them a nice 'You're Welcome' email for profiting off you.
+            </p>
+            <!-- <a
+              href="#_"
+              class="flex items-center justify-start mt-8 text-lg font-medium tracking-wide text-gray-900 underline uppercase"
+              >Learn More
+              <svg
+                class="w-5 h-5 ml-1 transform -rotate-45"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M14 5l7 7m0 0l-7 7m7-7H3"
+                ></path></svg
+            ></a> -->
+          </div>
+        </transition>
       </div>
     </div>
   </section>

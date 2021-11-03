@@ -1,10 +1,9 @@
 <template>
-  <div>
-    <Nuxt />
-    <TheFooter />
-  </div>
+  <div>prep</div>
 </template>
 
 <script>
 export default {}
 </script>
+
+<style scoped></style>

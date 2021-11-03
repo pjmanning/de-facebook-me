@@ -7,13 +7,13 @@
           Why #delete<span class="text-blue-600">facebook</span>?
         </h2>
         <p class="mt-5 text-xl text-gray-500">
-          Click on the articles below to read more about why you should delete facebook.
+          Click on the articles below to learn more about why you should delete facebook.
         </p>
       </div>
     </div>
 
     <!-- Articles -->
-    <section class="overflow-x-scroll">
+    <section class="overflow-x-scroll scrollbars-hidden">
       <div class="container p-5 pb-12 mx-auto md:pt-16 md:pb-20 md:pr-20 md:pl-8 max-w-7xl">
         <div class="flex mx-auto flex-nowrap">
           <a
@@ -480,6 +480,15 @@ export default {
           url:
             'https://www.nbcnews.com/tech/social-media/facebook-documents-reveal-company-targeted-children-young-6-rcna4021',
           description: 'Children as young as six were the next business target for Facebook',
+        },
+        {
+          title: 'Zuckerberg’s Meta Endgame Is Monetizing All Human Behavior',
+          image:
+            'https://video-images.vice.com/articles/61802e0ed5713d00937af2a0/lede/1635791007487-screen-shot-2021-11-01-at-22311-pm.png?image-resize-opts=Y3JvcD0xeHc6MC44NjczeGg7MHh3LDAuMDA4MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg',
+          url:
+            'https://www.vice.com/en/article/88g9vv/zuckerbergs-meta-endgame-is-monetizing-all-human-behavior',
+          description:
+            'Exploiting data to manipulate human behavior has always been Facebook’s business model. The metaverse will be no different.',
         },
       ],
     }
