@@ -3,10 +3,10 @@
     <!-- Header -->
     <div class="bg-white">
       <div class="px-4 pt-16 mx-auto max-w-7xl sm:pt-24 sm:px-6 lg:px-8">
-        <h2 class="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
+        <h2 class="text-2xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
           Why #delete<span class="text-blue-600">facebook</span>?
         </h2>
-        <p class="mt-5 text-xl text-gray-500">
+        <p class="mt-5 text-base text-gray-500 sm:text-xl">
           Click on the articles below to learn more about why you should delete facebook.
         </p>
       </div>

@@ -4,11 +4,11 @@
       <div class="space-y-12">
         <div class="space-y-5 sm:space-y-4 max-w-7xl">
           <h2
-            class="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl"
+            class="text-2xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl"
           >
             Select a service...
           </h2>
-          <p class="mt-5 text-xl text-gray-500">
+          <p class="mt-5 text-base text-gray-500 sm:text-xl">
             Within each Facebook company, you can choose whether to deactivate/delete/remove
             specific data.
           </p>
