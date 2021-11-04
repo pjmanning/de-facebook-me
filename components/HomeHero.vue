@@ -286,19 +286,19 @@
         <div class="flex items-center justify-center max-w-3xl mx-auto mt-4 xl:max-w-4xl">
           <lottie-animation
             ref="anim"
-            :animationData="require('@/assets/animations/facebook-3d-button.json')"
+            :animation-data="require('@/assets/animations/facebook-3d-button.json')"
             :loop="true"
           />
 
           <lottie-animation
             ref="anim"
-            :animationData="require('@/assets/animations/whatsapp.json')"
+            :animation-data="require('@/assets/animations/whatsapp.json')"
             :loop="true"
           />
 
           <lottie-animation
             ref="anim"
-            :animationData="require('@/assets/animations/instagram-button-flat-3d.json')"
+            :animation-data="require('@/assets/animations/instagram-button-flat-3d.json')"
             :loop="true"
           />
         </div>
