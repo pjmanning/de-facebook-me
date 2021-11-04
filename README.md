@@ -1,4 +1,4 @@
-# de-facebook-me
+# DeFacebookMe | A Guide to Detaching Yourself from Facebook
 
 ## Build Setup
 
