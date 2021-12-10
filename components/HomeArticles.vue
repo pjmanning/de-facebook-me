@@ -490,6 +490,152 @@ export default {
           description:
             'Exploiting data to manipulate human behavior has always been Facebook’s business model. The metaverse will be no different.',
         },
+        {
+          title: 'Meta to continue use of facial recognition technology | AppleInsider',
+          image: 'https://photos5.appleinsider.com/gallery/45466-88475-211103-Meta-xl.jpg',
+          url:
+            'https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology',
+          description:
+            "Facebook this week announced that it will no longer deploy facial recognition technologies on its platform, but the social network's parent company, Meta, said that the commitment does not apply to its metaverse products",
+        },
+        {
+          title:
+            "'The Big Tobacco of Our Generation': Study Shows Huge Scale of Facebook Climate Lies",
+          image:
+            'https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-11/GettyImages-1236343628-facebook-capitol.jpg?h=b27a87fd&itok=A8hjHsmJ',
+          url:
+            'https://www.commondreams.org/news/2021/11/04/big-tobacco-our-generation-study-shows-huge-scale-facebook-climate-lies',
+          description:
+            'The flood of disinformation unleashed by Mark Zuckerberg and Facebook is drowning audiences around the world.',
+        },
+        {
+          title:
+            'Mark Zuckerberg downloaded and used a photo app that Facebook later cloned and crushed, antitrust lawsuit claims',
+          image: 'https://i.insider.com/6154e6892fb46b0019beaf54?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/facebook-antitrust-lawsuit-cloned-crushed-phhhoto-photo-app-2021-11',
+          description:
+            'The founders of the photo-looping app Phhhoto say Facebook strung them along with the promise of a partnership that never materialized.',
+        },
+        {
+          title: 'Facebook reportedly is aware of the level of ‘problematic use’ among its users',
+          image:
+            'https://cdn.vox-cdn.com/thumbor/RjpjdR4FyTBVgpn1mvkThpnF29Y=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12793301/acastro_180828_1777_facebook_0001.0.jpg',
+          url:
+            'https://www.theverge.com/2021/11/6/22766935/facebook-meta-aware-problematic-use-addiction-wellbeing',
+          description: 'One in eight Facebook users reported "compulsive" social media use',
+        },
+        {
+          title: 'Why Facebook’s Metaverse Is Dead on Arrival',
+          image:
+            'https://pyxis.nymag.com/v1/imgs/1ac/697/a8c8649a5641bfdb5707d690a577dea051-zuckberg.1x.rsocial.w1200.jpg',
+          url:
+            'https://nymag.com/intelligencer/2021/11/why-facebooks-metaverse-is-dead-on-arrival.html',
+          description:
+            'Scott Galloway thinks Mark Zuckerberg is exactly the wrong person to build an alternate reality.',
+        },
+        {
+          title: 'CNN Poll: Three out of four adults think Facebook is making society worse',
+          image: 'https://cdn.cnn.com/cnnnext/dam/assets/190903150412-facebook-app-super-tease.jpg',
+          url: 'https://www.cnn.com/2021/11/10/business/cnn-poll-facebook/index.html',
+          description:
+            "Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content.",
+        },
+        {
+          title: 'Restore Net Neutrality, Or Facebook Will Dominate The Internet Forever',
+          image:
+            'https://video-images.vice.com/articles/6193e37da2346a009b6ed57c/lede/1637088927723-gettyimages-892389140.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI1eGg7MHh3LDAuMTU3NXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg',
+          url:
+            'https://www.vice.com/en/article/epxndw/restore-net-neutrality-or-facebook-will-dominate-the-internet-forever',
+          description:
+            'Without a functioning FCC, it’s only a matter of time before Big Tech and Big Telecom team up to screw us all.',
+        },
+        {
+          title: 'Facebook’s “Metaverse” Must Be Stopped',
+          image:
+            'https://images.jacobinmag.com/wp-content/uploads/2021/11/16152135/1280px-Mark_Zuckerberg_F8_2018_Keynote.jpeg',
+          url:
+            'https://jacobinmag.com/2021/11/facebook-metaverse-mark-zuckerberg-play-to-earn-surveillance-tech-industry',
+          description:
+            "Facebook founder Mark Zuckerberg's metaverse is no utopian vision — it's another opportunity for Big Tech to colonize our lives in the name of profit.",
+        },
+        {
+          title: 'JRE #1736 - Tristan Harris & Daniel Schmachtenberger',
+          image: 'https://i.scdn.co/image/ab6765630000ba8a34e2c63d3b0859725eaf86c5',
+          url: 'https://open.spotify.com/episode/2LNwwgJqOMKHOqdvwmLxqd',
+          description:
+            "Listen to this episode from The Joe Rogan Experience on Spotify. Tristan Harris is a former Google design ethicist, co-founder and president of the Center for Humane Technology, and co-host of the Center for Humane Technology’s 'Your Undivided Attention' podcast with Aza Raskin. Daniel Schmachtenb...",
+        },
+        {
+          title:
+            "The CEO of cosmetics retailer Lush says he's 'happy to lose' $13 million by deleting Facebook, TikTok, Snapchat accounts over teen mental-health harms",
+          image: 'https://i.insider.com/61a15eb31ca528001811751b?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/lush-ceo-happy-to-lose-13m-deleting-social-media-accounts-2021-11',
+          description:
+            'Cosmetics company Lush made waves by permanently shutting down its accounts on many of the biggest social media accounts on Black Friday.',
+        },
+        {
+          title:
+            "Meta's acquisition of Giphy is set to be blocked by an antitrust regulator, report says",
+          image: 'https://i.insider.com/61a4bbb4ee979500188412e7?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/meta-facebook-giphy-acquisition-set-to-get-blocked-cma-2021-11',
+          description:
+            'The UK regulator issued a provisional finding in August which said the acquisition was anti-competitive.',
+        },
+        {
+          title:
+            'A leaked internal Facebook survey shows employees are losing confidence in leadership and fewer than half intend to stay',
+          image: 'https://i.insider.com/6198216ba0817900199c0d80?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/internal-facebook-survey-shows-staff-losing-confidence-in-leadership-meta-2021-11',
+          description:
+            'Facebook, now called Meta, measures employee sentiment in an internal "Pulse" survey twice a year. We viewed the latest results.',
+        },
+        {
+          title: 'The metaverse is bullshit',
+          image: 'https://cdn.mos.cms.futurecdn.net/XXyqyRHq99sUfr8o3KUo88-1200-80.jpg',
+          url: 'https://www.pcgamer.com/the-metaverse-is-bullshit/',
+          description:
+            "You're not losing your mind: it really does just sound like a worse version of the internet.",
+        },
+        {
+          title: 'Facebook sold ads comparing vaccine to Holocaust',
+          image:
+            'https://cdn.cnn.com/cnnnext/dam/assets/210202130244-20210202-facebook-antivax-groups-illustration-super-tease.jpg',
+          url:
+            'https://www.cnn.com/2021/12/02/tech/facebook-vaccine-holocaust-misinformation/index.html',
+          description:
+            "Facebook has sold ads promoting anti-vaccine messages, comparing the US government's response to Covid-19 to Nazi Germany, casting doubt on the result of the 2020 election, and even pushing political violence.",
+        },
+        {
+          title: 'Meta sued in excess of $150 billion for its role in Rohingya genocide | ZDNet',
+          image:
+            'https://www.zdnet.com/a/img/resize/ccdfb966129d78d55553cc688b52a427857e3009/2021/12/07/0383ff94-c076-4445-ac47-c351ce8d4cd9/gettyimages-1236816350.jpg?width=770&height=578&fit=crop&auto=webp',
+          url:
+            'https://www.zdnet.com/article/meta-slapped-with-two-class-action-lawsuits-worth-in-excess-of-150b-for-its-role-in-rohingya-genocide/',
+          description:
+            'Facebook has been accused of using algorithms that amplified hate speech and failing to take down specific posts inciting violence against the Rohingya people.',
+        },
+        {
+          title:
+            'The metaverse could let Silicon Valley track your facial expressions, blood pressure, and your breathing rates — showing exactly why our internet laws need updating',
+          image: 'https://i.insider.com/6183ae8a23745d001824f811?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/metaverse-silicon-valley-tech-data-collection-regulation-laws-need-updating-2021-12',
+          description:
+            'Big Tech could gain much more personal data on you in the immersive metaverse — and use it to inform its algorithms and advertising partners.',
+        },
+        {
+          title:
+            "More than 300 scientists have told Mark Zuckerberg they want access to Meta's internal research on child and teen mental health because it doesn't meet scientific standards",
+          image: 'https://i.insider.com/608c11b634af8d001859a210?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/mark-zuckerberg-meta-open-letter-kids-mental-health-300-scientists-2021-12',
+          description:
+            "Zuckerberg has a 'moral obligation' to align Meta's child and teen mental health research with established scientific standards, the letter says.",
+        },
       ],
     }
   },

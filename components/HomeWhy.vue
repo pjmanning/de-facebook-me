@@ -15,7 +15,7 @@
         <p class="col-span-6 font-normal text-gray-700 lg:leading-8 xl:leading-9 md:text-xl">
           Your precious life moments and conversations should not be owned by a corporate entity
           profiting from your inputs. You should understand how and why a company is using
-          psychological techniques to keep you addicted, enraged, or feeding you specific types of
+          psychological tactics to keep you addicted, enraged, or feeding you specific types of
           content.
         </p>
       </div>

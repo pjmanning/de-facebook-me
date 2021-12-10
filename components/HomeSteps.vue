@@ -11,6 +11,7 @@
           <p class="mt-5 text-base text-gray-500 sm:text-xl">
             Within each Facebook company, you can choose whether to deactivate/delete/remove
             specific data.
+            <nuxt-link to="/prep" class="font-bold text-blue-500">Start Prepping.</nuxt-link>
           </p>
         </div>
 
