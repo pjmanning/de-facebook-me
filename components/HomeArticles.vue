@@ -636,6 +636,14 @@ export default {
           description:
             "Zuckerberg has a 'moral obligation' to align Meta's child and teen mental health research with established scientific standards, the letter says.",
         },
+        {
+          title: 'Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.',
+          image:
+            'https://static01.nyt.com/images/2021/12/13/world/13oz-meta-1/13oz-meta-1-facebookJumbo.jpg',
+          url: 'https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html',
+          description:
+            'Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work.',
+        },
       ],
     }
   },
