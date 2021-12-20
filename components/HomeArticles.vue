@@ -644,6 +644,20 @@ export default {
           description:
             'Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work.',
         },
+        {
+          title: 'Open letter from The BMJ to Mark Zuckerberg',
+          image: '',
+          url: 'https://www.bmj.com/content/375/bmj.n2635/rr-80',
+          description:
+            'Article Related content Article metrics Rapid responses Response Rapid Response: Open letter from The BMJ to Mark Zuckerberg Dear Mark Zuckerberg, We are Fiona Godlee and Kamran Abbasi, editors of The BMJ, one of the world’s oldest and most influential general medical journals. We are writing to r...',
+        },
+        {
+          title: 'Metaverse! Sign Your Life Away Now!',
+          image: 'https://i.ytimg.com/vi/SXcE2vkRg_w/maxresdefault.jpg',
+          url: 'https://www.youtube.com/watch?v=SXcE2vkRg_w',
+          description:
+            'To join Zion today and to find out more go to https://getzion.com/jpCheck Out My Merch Here - https://awakenwithjp.comTake a stand against censorship. Join m...',
+        },
       ],
     }
   },
