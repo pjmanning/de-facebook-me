@@ -658,6 +658,24 @@ export default {
           description:
             'To join Zion today and to find out more go to https://getzion.com/jpCheck Out My Merch Here - https://awakenwithjp.comTake a stand against censorship. Join m...',
         },
+        {
+          title:
+            "Facebook's reputation is so bad, the company must pay even more now to hire and retain talent. Some are calling it a 'brand tax' as tech workers fear a 'black mark' on their careers.",
+          image: 'https://i.insider.com/61bbb333df9da600189e4ef8?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/facebook-pays-brand-tax-hire-talent-fears-career-black-mark-2021-12',
+          description:
+            'At the group-director and VP level, Facebook staff are getting $3 million to $6 million in restricted stock units each year, one recruiter said.',
+        },
+        {
+          title: 'Buying Influence: How China Manipulates Facebook and Twitter',
+          image:
+            'https://static01.nyt.com/images/2021/12/19/business/china-influencer-promo/china-influencer-promo-facebookJumbo.jpg',
+          url:
+            'https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html',
+          description:
+            'New documents detail how Chinese officials tap private businesses for online information campaigns, offering a rare glimpse into how China’s vast bureaucracy works to spread propaganda online.',
+        },
       ],
     }
   },
