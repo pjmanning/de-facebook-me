@@ -18,7 +18,7 @@
         <div class="flex mx-auto flex-nowrap">
           <a
             v-for="article in links"
-            :key="article"
+            :key="article.url"
             :href="article.url"
             target="_blank"
             class="md:-ml-16 md:first:ml-0"
@@ -653,8 +653,8 @@ export default {
         },
         {
           title: 'Metaverse! Sign Your Life Away Now!',
-          image: 'https://i.ytimg.com/vi/SXcE2vkRg_w/maxresdefault.jpg',
-          url: 'https://www.youtube.com/watch?v=SXcE2vkRg_w',
+          image: 'https://i.ytimg.com/vi/gCegS3jxOU4/maxresdefault.jpg',
+          url: 'https://www.youtube.com/watch?v=gCegS3jxOU4',
           description:
             'To join Zion today and to find out more go to https://getzion.com/jpCheck Out My Merch Here - https://awakenwithjp.comTake a stand against censorship. Join m...',
         },
