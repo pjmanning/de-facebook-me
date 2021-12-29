@@ -3,13 +3,13 @@ title: WhatsApp
 description: 'whatsapp description'
 ---
 
-In this section, we'll discuss how to prepare before deleting / removing your data. If you choose only to _deactivate_ your accounts - your data will still exist on Facebook. However, if you choose to delete your data it will completely be removed from Facebook and it's services (or so we hope ;)
+<!-- In this section, we'll discuss how to prepare before deleting / removing your data. If you choose only to _deactivate_ your accounts - your data will still exist on Facebook. However, if you choose to delete your data it will completely be removed from Facebook and it's services (or so we hope ;) -->
 
 <!-- More -->
 
 #### Table of Contents
 
-> 1. [Create a Backup Folder](#step1)
+<!-- > 1. [Create a Backup Folder](#step1)
 > 2. [Export Your Contacts](#step2)
 > 3. [Create a Farewell Template](#step3)
 
@@ -35,4 +35,4 @@ However, you will likely loose
 
 <h2 id="step3">3. Create an Email Template</h2>
 
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying. -->

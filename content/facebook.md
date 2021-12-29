@@ -3,13 +3,13 @@ title: Facebook
 description: 'facebook description'
 ---
 
-In this section, we'll discuss how to prepare before deleting / removing your data. If you choose only to _deactivate_ your accounts - your data will still exist on Facebook. However, if you choose to delete your data it will completely be removed from Facebook and it's services.
+<!-- In this section, we'll discuss how to prepare before deleting / removing your data. If you choose only to _deactivate_ your accounts - your data will still exist on Facebook. However, if you choose to delete your data it will completely be removed from Facebook and it's services. -->
 
 <!-- More -->
 
 #### Table of Contents
 
-> 1. [Create a Backup Folder](#step1)
+<!-- > 1. [Create a Backup Folder](#step1)
 > 2. [Export Your Contacts](#step2)
 > 3. [Create a Farewell Template](#step3)
 
@@ -23,4 +23,4 @@ You'll be deactivating your social life.
 
 Stalking has become normalized. Viewing 1-time acquaintence stories 3 times a day? Checking in on an ex's profile a few times a week? Pre-Facebook these actions would be seen as crazy - now it's become normal behavior.
 
-However, you will likely loose
+However, you will likely loose -->

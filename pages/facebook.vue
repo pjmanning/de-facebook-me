@@ -76,7 +76,7 @@
           >
           <span
             class="block mt-2 text-3xl font-extrabold leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
-            >Create Folders to Backup Your Data</span
+            >Remove Your Data from Facebook</span
           >
         </h1>
       </div>
