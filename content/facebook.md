@@ -15,24 +15,12 @@ In this section, we'll discuss how to prepare before deleting / removing your da
 
 <h2 id="step1">1. Create a Backup Folder</h2>
 
-- Create a FBGraveyard folder
-- Create 1 folder for each service
-  - Facebook
-  - Instagram
-  - WhatsApp
-
-<h2 id="step2">2. Export Your Contacts</h2>
-
 You'll be deactivating your social life.
 
 - 1 you'll likely be happier
 - Less FOMO
 - Stronger personal relationships (you'll actually call/meet people rather than - like or comment on a post)
 
-Stalking has become normalized. Viewing 1-time acquiantences stories 3 times a day? Checking in on an ex's profile a few times a week? Pre-Facebook these actions would be seen as crazy - now it's become normal behavior.
+Stalking has become normalized. Viewing 1-time acquaintence stories 3 times a day? Checking in on an ex's profile a few times a week? Pre-Facebook these actions would be seen as crazy - now it's become normal behavior.
 
 However, you will likely loose
-
-<h2 id="step3">3. Create an Email Template</h2>
-
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
