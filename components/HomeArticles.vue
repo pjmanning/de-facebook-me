@@ -676,6 +676,25 @@ export default {
           description:
             'New documents detail how Chinese officials tap private businesses for online information campaigns, offering a rare glimpse into how China’s vast bureaucracy works to spread propaganda online.',
         },
+        {
+          title:
+            'After the Facebook whistleblower came forward, the company reportedly tried to discredit her reputation among politicians',
+          image: 'https://i.insider.com/61cc91a90a55570019619505?width=1200&format=jpeg',
+          url:
+            'https://www.businessinsider.com/facebook-reportedly-used-lobbyists-to-divide-politicians-as-defense-2021-12',
+          description:
+            'In October, Frances Haugen exposed major issues at the social media giant. Then, company lobbyists smeared her name on Capitol Hill, the Wall Street Journal reports.',
+        },
+        {
+          title:
+            "Facebook Said My Article Was 'False Information.' Now the Fact-Checkers Admit They Were Wrong.",
+          image:
+            'https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/12/Artboard-1-1024x576.png',
+          url:
+            'https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/',
+          description:
+            "While this is a problem, it's not one that scrapping Section 230 would solve.",
+        },
       ],
     }
   },
