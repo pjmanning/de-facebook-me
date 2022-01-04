@@ -65,5 +65,5 @@ All the best :)
 <h2 id="recap">Recap</h2>
 
 - You should have a local folder with 3 subfolders for each Facebook service.
-- You should also have started a blank spreadsheet for adding contacts into.
-- You should also have created a short email/message template for sending to friends about leaving FB/Insta/WA.
+- You should have started a blank spreadsheet for adding contacts into.
+- You should have created a short email/message template for sending to friends about leaving FB/Insta/WA.
