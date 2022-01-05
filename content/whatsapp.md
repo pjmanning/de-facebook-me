@@ -33,6 +33,8 @@ Also, as a nomadic person - living without WhatsApp is nearly impossible, theref
 > 20. [Click on Finish](#step20)
 > 21. [Click on Finish (again)](#step21)
 > 22. [You Can Now Download and Sign Up for WhatsApp Using Your New Number](#step22)
+>
+> [Alternatives](#alternatives)
 
 ---
 
@@ -155,3 +157,10 @@ You can also download the mobile apps.
 ---
 
 _[This workflow was created with Tango](https://app.tango.us/app/workflow/db500bf1-d89f-4283-8b00-81d0a0d24880)_
+
+---
+
+<h3 id="alternatives">Alternatives</h3>
+
+- [Signal](https://signal.org/)
+- [Telegram](https://telegram.org/)
