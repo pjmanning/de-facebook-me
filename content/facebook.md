@@ -8,50 +8,50 @@ In this section, we'll discuss the necessary steps to take to download your Face
 You'll then have the option to deactivate and continue to use Messenger or completely delete your account.
 
 <!-- More -->
-<!--
+
 #### Table of Contents
 
 > 1. [Go to Facebook and Login](#step1)
 > 2. [Click on the Account dropdown](#step2)
 > 3. [Click on "Settings & privacy"](#step3)
-> 4. [](#step4)
-> 5. [](#step5)
-> 6. [](#step6)
-> 7. [](#step7)
-> 8. [](#step8)
-> 9. [](#step9)
-> 10. [](#step10)
-> 11. [](#step11)
-> 12. [](#step12)
-> 13. [](#step13)
-> 14. [](#step14)
-> 15. [](#step15)
-> 16. [](#step16)
-> 17. [](#step17)
-> 18. [](#step18)
-> 19. [](#step19)
-> 20. [](#step20)
-> 21. [](#step21)
-> 22. [](#step22)
-> 23. [](#step23)
-> 24. [](#step24)
-> 25. [](#step25)
-> 26. [](#step26)
-> 27. [](#step27)
-> 28. [](#step28)
-> 29. [](#step29)
-> 30. [](#step30)
-> 31. [](#step31)
-> 32. [](#step32)
-> 33. [](#step33)
-> 34. [](#step34)
-> 35. [](#step35)
-> 36. [](#step36)
-> 37. [](#step37)
-> 38. [](#step38)
-> 39. [](#step39)
-> 40. [](#step40)
-> 41. [](#step41) -->
+> 4. [Click on "Settings"](#step4)
+> 5. [Click on "Your Facebook information"](#step5)
+> 6. [Click on "Download your information"](#step6)
+> 7. [Click on "Date range"](#step7)
+> 8. [Select "All time"](#step8)
+> 9. [Ensure Everything is Selected](#step9)
+> 10. [Click on Request a download](#step10)
+> 11. [Wait until You Get an Email from Facebook that the Download has Completed](#step11)
+> 12. [Click on "Available Files"](#step12)
+> 13. [Click on "Download"](#step13)
+> 14. [Click on Each File to Download](#step14)
+> 15. [Enter Your Password](#step15)
+> 16. [Click on Confirm](#step16)
+> 17. [Click on Confirm to Download](#step17)
+> 18. [Repeat Steps 13-16 for However Many Files Exist](#step18)
+> 19. [Go Back to the Download Your Information Page](#step19)
+> 20. [Click on the "Format" tab](#step20)
+> 21. [Select JSON](#step21)
+> 22. [Click on "Date range"](#step22)
+> 23. [Select "All time"](#step23)
+> 24. [Ensure Everything is Selected](#step24)
+> 25. [Click on "Request a download"](#step25)
+> 26. [REPEAT Steps 11-17 (download the JSON file this time)](#step26)
+> 27. [Go to the "Tagged Photo Exporter for Facebook" Chrome Extension and Click "Add to Chrome" / "Add to Brave"](#step27)
+> 28. [Click on "Add Extension"](#step28)
+> 29. [Go to Facebook and Go to Your Profile](#step29)
+> 30. [Click on Photos](#step30)
+> 31. [Click on Photos of You](#step31)
+> 32. [Open the Browser Extension and Click "Export"](#step32)
+> 33. [When Indexing is Complete a New Tab Will Open -> Follow the Steps to Download](#step33)
+> 34. [OPTIONAL: Download Videos](#step34)
+> 35. [OPTIONAL: Transfer Pages/Apps to Another User](#step35)
+> 36. [Unzip Your Downloaded Packages and Rename the Folders](#step36)
+> 37. [Add these Files and Folders to the FBGraveyard -> Facebook Folder](#step37)
+> 38. [DEACTIVATE/DELETE: Go back to "Your Facebook information" in Settings](#step38)
+> 39. [Click on "Deactivation and deletion"](#step39)
+> 40. [Select Whether You'd like to Deactivate or Delete Your Account](#step40)
+> 41. [Enter Your Password, Confirm, and You're Free :)](#step41)
 
 ---
 
@@ -190,7 +190,8 @@ Facebook will not download 'Photos of You' (aka photos you've been tagged in) ev
 \*Note: If a new page does not open again - click on the extension again and you should a line below the button...
 
 > You recently exported \_\_\_ photos. Click <u>here</u> to view and save.
-> ![Step 33 screenshot](https://images.tango.us/public/edited_image_533208ea-71d8-4a04-803f-61e133b5e579?crop=focalpoint&fit=crop&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2876%3A1600)
+
+![Step 33 screenshot](https://images.tango.us/public/edited_image_533208ea-71d8-4a04-803f-61e133b5e579?crop=focalpoint&fit=crop&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2876%3A1600)
 
 <h3 id="step34">34. OPTIONAL: Download Videos</h3>
 
