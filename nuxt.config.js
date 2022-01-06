@@ -1,6 +1,9 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  env: {
+    baseUrl: process.env.BASE_URL || 'http://localhost:3000',
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -107,6 +110,7 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    '@nuxtjs/axios',
     '@nuxtjs/sitemap',
     'vue-plausible',
     'vue-scrollto/nuxt',
