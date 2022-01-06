@@ -1,9 +1,6 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  env: {
-    baseUrl: process.env.BASE_URL || 'http://localhost:3000',
-  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -114,6 +111,7 @@ export default {
     '@nuxtjs/sitemap',
     'vue-plausible',
     'vue-scrollto/nuxt',
+    '@nuxtjs/redirect-module',
   ],
 
   sitemap: {
@@ -130,6 +128,12 @@ export default {
       lang: 'en',
     },
   },
+
+  redirect: [
+    { from: '^/facebook', to: '/how-to-delete-facebook-account', statusCode: 301 },
+    { from: '^/instagram', to: '/how-to-delete-instagram-account', statusCode: 301 },
+    { from: '^/whatsapp', to: '/how-to-delete-whatsapp-account', statusCode: 301 },
+  ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},

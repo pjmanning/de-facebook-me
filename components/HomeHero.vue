@@ -116,7 +116,7 @@
                       </nuxt-link>
 
                       <nuxt-link
-                        to="/how-to-delete-facebook"
+                        to="/how-to-delete-facebook-account"
                         class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                         @click.native="isOpen = false"
                       >

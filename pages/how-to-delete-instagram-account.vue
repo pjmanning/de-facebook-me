@@ -72,11 +72,11 @@
         <h1>
           <span
             class="block text-base font-semibold tracking-wide text-center text-blue-600 uppercase"
-            >Facebook</span
+            >Instagram</span
           >
           <span
             class="block mt-2 text-3xl font-extrabold leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
-            >How to Delete Facebook</span
+            >How to Delete Instagram Account</span
           >
         </h1>
       </div>
@@ -91,7 +91,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const article = await $content('facebook').fetch()
+    const article = await $content('instagram').fetch()
 
     return {
       article,
@@ -100,7 +100,7 @@ export default {
 
   head() {
     return {
-      title: 'How to Delete Facebook',
+      title: this.article.title,
     }
   },
 }

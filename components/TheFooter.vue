@@ -67,7 +67,9 @@
             <nuxt-link to="/prep" class="px-2 text-gray-500 hover:text-white">Prep</nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/how-to-delete-facebook" class="px-2 text-gray-500 hover:text-white"
+            <nuxt-link
+              to="/how-to-delete-facebook-account"
+              class="px-2 text-gray-500 hover:text-white"
               >Facebook</nuxt-link
             >
           </li>

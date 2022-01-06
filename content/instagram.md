@@ -1,5 +1,5 @@
 ---
-title: Instagram
+title: How to Delete Instagram Account
 description: 'insta description'
 ---
 

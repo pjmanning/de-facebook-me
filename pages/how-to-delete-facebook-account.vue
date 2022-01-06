@@ -72,11 +72,11 @@
         <h1>
           <span
             class="block text-base font-semibold tracking-wide text-center text-blue-600 uppercase"
-            >WhatsApp</span
+            >Facebook</span
           >
           <span
             class="block mt-2 text-3xl font-extrabold leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
-            >Remove Your Data from WhatsApp</span
+            >How to Delete Facebook</span
           >
         </h1>
       </div>
@@ -91,7 +91,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const article = await $content('whatsapp').fetch()
+    const article = await $content('facebook').fetch()
 
     return {
       article,
