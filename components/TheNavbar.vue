@@ -31,13 +31,13 @@
               Facebook
             </nuxt-link>
             <nuxt-link
-              to="/instagram"
+              to="/how-to-delete-instagram-account"
               class="relative inline-block px-0.5 text-lg font-bold text-gray-200 uppercase transition duration-150 ease hover:text-white"
             >
               Instagram
             </nuxt-link>
             <nuxt-link
-              to="/whatsapp"
+              to="/how-to-delete-whatsapp-account"
               class="relative inline-block px-0.5 text-lg font-bold text-gray-200 uppercase transition duration-150 ease hover:text-white"
             >
               WhatsApp
@@ -200,7 +200,7 @@
                       </nuxt-link>
 
                       <nuxt-link
-                        to="/instagram"
+                        to="/how-to-delete-instagram-account"
                         class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                         @click.native="isOpen = false"
                       >
@@ -217,7 +217,7 @@
                       </nuxt-link>
 
                       <nuxt-link
-                        to="/whatsapp"
+                        to="/how-to-delete-whatsapp-account"
                         class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                         @click.native="isOpen = false"
                       >

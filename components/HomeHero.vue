@@ -133,7 +133,7 @@
                       </nuxt-link>
 
                       <nuxt-link
-                        to="/instagram"
+                        to="/how-to-delete-instagram-account"
                         class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                         @click.native="isOpen = false"
                       >
@@ -150,7 +150,7 @@
                       </nuxt-link>
 
                       <nuxt-link
-                        to="/whatsapp"
+                        to="/how-to-delete-whatsapp-account"
                         class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                         @click.native="isOpen = false"
                       >

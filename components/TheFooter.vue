@@ -74,12 +74,16 @@
             >
           </li>
           <li>
-            <nuxt-link to="/instagram" class="px-2 text-gray-500 hover:text-white"
+            <nuxt-link
+              to="/how-to-delete-instagram-account"
+              class="px-2 text-gray-500 hover:text-white"
               >Instagram</nuxt-link
             >
           </li>
           <li>
-            <nuxt-link to="/whatsapp" class="px-2 text-gray-500 hover:text-white"
+            <nuxt-link
+              to="/how-to-delete-whatsapp-account"
+              class="px-2 text-gray-500 hover:text-white"
               >WhatsApp</nuxt-link
             >
           </li>
