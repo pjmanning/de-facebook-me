@@ -59,15 +59,15 @@ You'll then have the option to deactivate and continue to use Messenger or compl
 
 <h3 id="step2">2. Click on the Account dropdown</h3>
 
-![Step 2 screenshot](https://images.tango.us/public/screenshot_37eb3d27-db62-4448-8f90-5fb9270d67ce?crop=focalpoint&fit=crop&fp-x=0.9750&fp-y=0.0350&fp-z=2.8571&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1600)
+![Step 2 screenshot](https://images.tango.us/public/edited_image_a76c7059-7414-474f-a605-bddcad28f4d1?crop=focalpoint&fit=crop&fp-x=0.9055&fp-y=0.1746&fp-z=2.8590&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1600)
 
 <h3 id="step3">3. Click on "Settings & privacy"</h3>
 
-![Step 3 screenshot](https://images.tango.us/public/screenshot_844604cf-1925-4624-bef1-7cffb5355367?crop=focalpoint&fit=crop&fp-x=0.8677&fp-y=0.3150&fp-z=2.8986&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1600)
+![Step 3 screenshot](https://images.tango.us/public/edited_image_59c94e65-b80c-4f11-ad13-871b4732754b?crop=focalpoint&fit=crop&fp-x=0.7970&fp-y=0.3146&fp-z=2.4636&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1600)
 
 <h3 id="step4">4. Click on "Settings"</h3>
 
-![Step 4 screenshot](https://images.tango.us/public/screenshot_07f7881c-325c-4114-a09f-a4c3bfe0e594?crop=focalpoint&fit=crop&fp-x=0.8635&fp-y=0.1787&fp-z=2.7397&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1600)
+![Step 4 screenshot](https://images.tango.us/public/edited_image_30fa8a12-3fe6-4cf9-b3af-bc6ad30d457c?crop=focalpoint&fit=crop&fp-x=0.7970&fp-y=0.1821&fp-z=2.4636&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=2880%3A1600)
 
 <h3 id="step5">5. Click on "Your Facebook information"</h3>
 

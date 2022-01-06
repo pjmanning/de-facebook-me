@@ -14,7 +14,7 @@
 
     <!-- Articles -->
     <section class="overflow-x-scroll scrollbars-hidden">
-      <div class="container p-5 pb-12 mx-auto md:pt-16 md:pb-20 md:pr-20 md:pl-8 max-w-7xl">
+      <div class="container p-5 pb-16 mx-auto md:pt-16 md:pr-20 md:pl-8 max-w-7xl">
         <div v-if="articles.length > 0" class="flex mx-auto flex-nowrap">
           <a
             v-for="article in articles"
@@ -46,6 +46,27 @@
         </div>
       </div>
     </section>
+
+    <nuxt-link
+      to="/articles"
+      class="flex items-center justify-center mb-12 text-3xl font-bold text-blue-500"
+    >
+      View all Sources
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="w-6 h-6"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M13 7l5 5m0 0l-5 5m5-5H6"
+        />
+      </svg>
+    </nuxt-link>
   </div>
 </template>
 
@@ -58,12 +79,6 @@ export default {
       articles,
     }
   },
-
-  //   async fetch() {
-  //     this.articles = await fetch('/articles.json').then((res) => {
-  //       return res.json()
-  //     })
-  //   },
 }
 </script>
 

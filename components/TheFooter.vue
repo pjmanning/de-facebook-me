@@ -64,17 +64,20 @@
 
         <ul class="flex flex-row justify-center pb-3 -ml-4 -mr-4 text-sm">
           <li>
-            <nuxt-link to="/facebook" class="px-4 text-gray-500 hover:text-white"
+            <nuxt-link to="/prep" class="px-2 text-gray-500 hover:text-white">Prep</nuxt-link>
+          </li>
+          <li>
+            <nuxt-link to="/facebook" class="px-2 text-gray-500 hover:text-white"
               >Facebook</nuxt-link
             >
           </li>
           <li>
-            <nuxt-link to="/instagram" class="px-4 text-gray-500 hover:text-white"
+            <nuxt-link to="/instagram" class="px-2 text-gray-500 hover:text-white"
               >Instagram</nuxt-link
             >
           </li>
           <li>
-            <nuxt-link to="/whatsapp" class="px-4 text-gray-500 hover:text-white"
+            <nuxt-link to="/whatsapp" class="px-2 text-gray-500 hover:text-white"
               >WhatsApp</nuxt-link
             >
           </li>
