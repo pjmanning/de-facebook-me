@@ -695,6 +695,16 @@ export default {
           description:
             "While this is a problem, it's not one that scrapping Section 230 would solve.",
         },
+        {
+          title:
+            'Facebook Hosted Surge of Misinformation and Insurrection Threats in Months Leading Up to Jan. 6 Attack, Records Show',
+          image:
+            'https://img.assets-d.propublica.org/v5/images/20220103_FB-Jan6-2_SS.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=8445ed489764cba00c18e00b5b5d202a',
+          url:
+            'https://www.propublica.org/article/facebook-hosted-surge-of-misinformation-and-insurrection-threats-in-months-leading-up-to-jan-6-attack-records-show',
+          description:
+            'A ProPublica/Washington Post analysis of Facebook posts, internal company documents and interviews, provides the clearest evidence yet that the social media giant played a critical role in spreading lies that fomented the violence of Jan. 6.',
+        },
       ],
     }
   },
