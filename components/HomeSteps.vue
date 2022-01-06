@@ -22,7 +22,10 @@
           <li
             class="px-6 py-10 text-center bg-gray-100 rounded-lg xl:px-10 xl:text-left hover:bg-gray-200 hover:shadow-lg"
           >
-            <nuxt-link to="/facebook" class="space-y-6 xl:space-y-10 group-focus:border-blue-500">
+            <nuxt-link
+              to="/how-to-delete-facebook"
+              class="space-y-6 xl:space-y-10 group-focus:border-blue-500"
+            >
               <img
                 class="w-40 h-40 mx-auto bg-white rounded-full xl:w-56 xl:h-56"
                 src="~/assets/images/facebook.png"

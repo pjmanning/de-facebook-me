@@ -25,7 +25,7 @@
               Prep
             </nuxt-link>
             <nuxt-link
-              to="/facebook"
+              to="/how-to-delete-facebook"
               class="relative inline-block px-0.5 text-lg font-bold text-gray-200 uppercase transition duration-150 ease hover:text-white"
             >
               Facebook
@@ -183,7 +183,7 @@
                       </nuxt-link>
 
                       <nuxt-link
-                        to="/facebook"
+                        to="/how-to-delete-facebook"
                         class="flex items-center p-3 -m-3 rounded-lg hover:bg-gray-50"
                         @click.native="isOpen = false"
                       >

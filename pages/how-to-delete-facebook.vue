@@ -76,7 +76,7 @@
           >
           <span
             class="block mt-2 text-3xl font-extrabold leading-8 tracking-tight text-center text-gray-900 sm:text-4xl"
-            >Remove Your Data from Facebook</span
+            >How to Delete Facebook</span
           >
         </h1>
       </div>
@@ -100,7 +100,7 @@ export default {
 
   head() {
     return {
-      title: this.article.title,
+      title: 'How to Delete Facebook',
     }
   },
 }
