@@ -3,7 +3,7 @@ title: WhatsApp
 description: 'whatsapp description'
 ---
 
-In this section, we'll discuss how to backup and download your WhatsApp data if you choose. Then we'll walk through **how to delete whatsapp account**, which will also delete any backups so it's important to download a backup if you want to keep that data.
+In this section, we'll discuss how to backup and download your WhatsApp data. Then we'll walk through **how to delete WhatsApp account**, which will also delete any backups so it's important to download a backup if you want to keep that data.
 
 Also, as a nomadic person - living without WhatsApp is nearly impossible, therefore I suggest creating a _burner_ phone number to sign up to WhatsApp with and use it for businesses / group chats / acquintances(aka people you really don't want to give your phone number to).
 

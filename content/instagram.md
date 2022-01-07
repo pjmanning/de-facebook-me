@@ -3,7 +3,7 @@ title: How to Delete Instagram Account
 description: 'insta description'
 ---
 
-In this section, we'll discuss how to prepare before deleting / removing your data. If you choose only to _deactivate_ your account - your data will still be saved on Instagram but will not be public. However, if you choose to delete your data it will completely be removed from Instagram (we hope ;)
+In this section, we'll discuss **how to delete Instagram account**. The first step is to prepare before deleting / removing your data. If you choose only to _deactivate_ your Instagram account - your data will still be saved on Instagram's servers but will not be public. However, if you choose to delete your Instagram data it will completely be removed forever (we hope ;)
 
 <!-- More -->
 

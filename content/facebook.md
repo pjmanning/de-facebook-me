@@ -5,7 +5,7 @@ description: 'facebook description'
 
 In this section, we'll discuss the necessary steps to take to download your Facebook information in multiple formats. This will prep you before you learn **how to delete facebook account**.
 
-You'll then have the option to _deactivate_ your facebook account and continue to use Facebook Messenger or completely _delete_ your facebook account.
+You'll also have the option to _deactivate_ your facebook account and continue to use [Facebook Messenger](https://www.messenger.com/) or you can completely _delete_ your facebook account.
 
 <!-- More -->
 
