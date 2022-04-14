@@ -466,5 +466,17 @@
     "image": "http://digiday.com/wp-content/uploads/2021/10/facebook-revenue-gif.gif",
     "url": "https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/",
     "description": "Facebook does not make it clear that, when accounts are deactivated, its data connections continue to get new information."
+  },
+  {
+    "title": "Keeping Mark Zuckerberg Safe Cost Meta Nearly $27 Million Last Year",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZMZOMrDh8Y/v0/1200x800.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2022-04-11/zuckerberg-s-security-costs-went-up-as-meta-came-under-fire",
+    "description": "The cost of keeping Mark Zuckerberg safe keeps going up for Meta Platforms Inc., far outstripping what similar technology companies with high-profile executives are spending."
+  },
+  {
+    "title": "Meta plans to take a nearly 50% cut on virtual asset sales in its metaverse",
+    "image": "https://image.cnbcfm.com/api/v1/image/106986799-1639005421186-CreateAWorldOfYourOwn_1.png?v=1639006398&w=1920&h=1080",
+    "url": "https://www.cnbc.com/2022/04/13/meta-plans-to-take-a-nearly-50percent-cut-on-nft-sales-in-its-metaverse.html",
+    "description": "Meta is letting Horizon Worlds creators sell virtual assets within the worlds they build but it plans to take a significant cut on each transaction."
   }
 ]
